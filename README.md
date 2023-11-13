@@ -1,8 +1,8 @@
 ### Hi there 👋
-<h1>My name is Rifospin oni 1</h1>
-<h2>Cutiness Archon</h2>
+<h1>My name is Rifospin oni </h1>
+<h2>Here are some languages on which i know something</h2>
 
-<img width="65" alt="js-logo-2" src="https://github.com/Rifospin-Oni/Rifospin-Oni/assets/119863328/766240d5-9563-404f-91b0-3c89537e9ca7">
-<img width="65"alt="js-logo-2"  src"https://github.com/Rifospin-Oni/Rifospin-Oni/assets/119863328/e3d2c147-6d55-45f5-aa8b-094551c8f281">
+<img width="65" alt="js-logo-2" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg">
+<img width="65"alt="js-logo-2"  src"https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg">
 
 
