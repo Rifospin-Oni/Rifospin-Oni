@@ -1,3 +1,4 @@
+<img alt="banner" src="/Furina Banner.jpg">
 ### Hi there 👋
 <h1>My name is Rifospin oni </h1>
 <h2>Here are some languages on which i know something</h2>
